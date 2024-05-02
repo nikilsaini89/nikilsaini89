@@ -1,12 +1,17 @@
 ### Hi there 👋
-
+👋 Hi, I’m @nikilsaini89
+👀 I’m interested in Machine Learning, Deep Learning, Natural Language Processing, Large Language Processing.
+🌱 I have learnt C, C++, Python, OOPs Concepts
+📫 How to reach me : nikilsaini74@gmail.com
+J.C. Bose University of Science and Technology, YMCA, Faridabad
+📍 Faridabad, Haryana
 <!--
 **nikilsaini89/nikilsaini89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Natural Language Processibg
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
