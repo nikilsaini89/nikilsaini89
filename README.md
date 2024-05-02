@@ -1,11 +1,7 @@
-
-
-
-
 - ### Hey there, I'm [Nikil Saini](https://nikilsaini89.github.io/)! 👋
 B.Tech CSE '24
 
-- 👀 I’ve worked on Machine Learning, Deep Learning, Natural Language Processing, Large Language Processing.
+- 👀 I’ve worked on Machine Learning, Deep Learning, Natural Language Processing, Large Language Models.
 - 🌱 Research Interests: Deep Learning, OpenCV, LLMs.
 - 📫 How to reach me : nikilsaini74@gmail.com
 - 😊 Build technologies that increase the cumulative density of magic in the world!
