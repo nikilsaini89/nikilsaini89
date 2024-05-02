@@ -1,10 +1,26 @@
-### Hi there 👋
-- 👋 Hi, I’m @nikilsaini89
+
+
+
+
+- ### Hey there, I'm [Nikil Saini](https://nikilsaini89.github.io/)! 👋
+B.Tech CSE '24
+
 - 👀 I’ve worked on Machine Learning, Deep Learning, Natural Language Processing, Large Language Processing.
-- 🌱 I have learnt C, C++, Python, OOPs Concepts
+- 🌱 Research Interests: Deep Learning, OpenCV, LLMs.
 - 📫 How to reach me : nikilsaini74@gmail.com
+- 😊 Build technologies that increase the cumulative density of magic in the world!
 - J.C. Bose University of Science and Technology, YMCA, Faridabad
 - 📍 Faridabad, Haryana
+  
+**Languages and Tools:**  
+
+<code><img height="20" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/15658638?s=48&v=4"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/27804?s=48&v=4"></code>
+
+
+![](https://komarev.com/ghpvc/?username=Satyam-79&color=blueviolet)
 <!--
 **nikilsaini89/nikilsaini89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
