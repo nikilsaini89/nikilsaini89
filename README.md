@@ -1,10 +1,10 @@
 ### Hi there 👋
-👋 Hi, I’m @nikilsaini89
-👀 I’m interested in Machine Learning, Deep Learning, Natural Language Processing, Large Language Processing.
-🌱 I have learnt C, C++, Python, OOPs Concepts
-📫 How to reach me : nikilsaini74@gmail.com
-J.C. Bose University of Science and Technology, YMCA, Faridabad
-📍 Faridabad, Haryana
+- 👋 Hi, I’m @nikilsaini89
+- 👀 I’m interested in Machine Learning, Deep Learning, Natural Language Processing, Large Language Processing.
+- 🌱 I have learnt C, C++, Python, OOPs Concepts
+- 📫 How to reach me : nikilsaini74@gmail.com
+- J.C. Bose University of Science and Technology, YMCA, Faridabad
+- 📍 Faridabad, Haryana
 <!--
 **nikilsaini89/nikilsaini89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
