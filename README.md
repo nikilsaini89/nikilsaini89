@@ -15,7 +15,6 @@ Upcoming Applied Scientist Intern @Amazon.
 <code><img height="20" src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/15658638?s=48&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/27804?s=48&v=4"></code>
 
 
 ![](https://komarev.com/ghpvc/?username=Satyam-79&color=blueviolet)
