@@ -1,7 +1,7 @@
 ### Hey there, I'm [Nikil Saini](https://nikilsaini89.github.io/)! 👋
 B.Tech CSE '25
 <br> 
-Former Applied Scientist Intern @Amazon.
+SWE Intern @Docquity || Former Applied Scientist Intern @Amazon.
 
 - 👀 I’ve worked on Machine Learning, Deep Learning, Natural Language Processing and Large Language Models.
 - 🌱 Research Interests: Deep Learning, OpenCV, LLMs.
